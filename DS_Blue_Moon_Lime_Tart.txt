@@ -2,7 +2,7 @@ Tiramisu
 
 Menu Class: Dessert
 
-Description: Modern colorfull tart
+Description: Modern colorfull tart. Designed to impress.
 
 Ingredients: 
 Cookie crust
