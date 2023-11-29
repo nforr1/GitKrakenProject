@@ -4,6 +4,15 @@ Menu Class: Main Course
 
 Description: This is tasty and easy recipe for lunch or dinner. Finger-licking delicious.
 
+Servings: 2
+
+Preparation Time:
+Prep 10
+Cook 20
+
+Recipe by:
+https://food52.com/recipes/77676-miso-mushroom-pasta
+
 Ingredients:
 7 ounces dried pasta, such as bucatini
 4 ounces mushrooms (I use an equal mix of shimeji, eryngii, and oyster mushrooms, but most other combinations are good too)
