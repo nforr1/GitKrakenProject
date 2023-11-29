@@ -2,7 +2,7 @@ Miso Mushroom Pasta
 
 Menu Class: Main Course
 
-Description: This is tasty and easy recipe for lunch or dinner.
+Description: This is tasty and easy recipe for lunch or dinner. Finger-licking delicious.
 
 Ingredients:
 7 ounces dried pasta, such as bucatini
