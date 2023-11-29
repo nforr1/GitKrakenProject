@@ -2,7 +2,7 @@ Miso Mushroom Pasta
 
 Menu Class: Main Course
 
-Description: This is tasty and easy recipe for lunch or dinner. Finger-licking delicious.
+Description: This is a new desert menu.
 
 Servings: 2
 
