@@ -1,0 +1,20 @@
+Additional Text for Appetizers
+
+Description: perfect for parties
+
+Servings: 12
+
+Preparation Time:
+Prep 20
+Bake 25
+
+Recipe by:
+https://www.tasteofhome.com/recipes/chicken-parmesan-slider-bake/
+
+!!! This below will be used for branching lesson
+Additional Text for branching
+Commit 1
+Dinner rolls also work
+
+Commit 2
+Chicken nuggets can be used instead of tenders.

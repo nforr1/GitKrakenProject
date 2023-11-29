@@ -1,5 +1,9 @@
-# Object file
-*.o
+# exclude everything jfif
+*.jfif
 
-# Ada Library Information
-*.ali
+# exclude folder (name of folder is ext)
+/ext/*
+
+# exclude all jfif file in images folder
+/images/*.jfif
+
